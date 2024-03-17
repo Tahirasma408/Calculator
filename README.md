@@ -1,2 +1,2 @@
 # Calculator
-Simple Calculator project using typescrpt
+Simple Calculator project using typescrpt inquirer
